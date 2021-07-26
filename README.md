@@ -1,10 +1,10 @@
 # TugasBesar_PBO_ProgramKalkulatorBangunDatardanBangunRuang
 # Kelompok Tahu Bulat Dadakan
 Anggota Kelompok :
-1. Rias Gauri Nur Hasanah (19102212)
-2. Daffa Sultansyah (19102055)
-3. TB. Ahmad Fadhlan Shaquille (19102032)
-4. Muhammad Ari Al Ghifari (19102014)
+1. Rias Gauri Nur Hasanah (19102212) -> Project Manager
+2. Daffa Sultansyah (19102055) -> Analyst
+3. TB. Ahmad Fadhlan Shaquille (19102032) -> Designer
+4. Muhammad Ari Al Ghifari (19102014) -> Programmer
 
 Deskripsi Singkat Program :
 Program ini dirancang untuk mempermudah perhitungan bangun datar dan bangun ruang. Namun, program ini baru dapat menghitung luas untuk 5 bangun datar (persegi, persegi panjang, segitiga, lingkaran, dan trapesium) serta menghitung volume untuk 5 bangun ruang (kubus, balok, tabung, kerucut, dan bola). Diharapkan nantinya proyek akan dilanjutkan dan dapat melakukan proses perhitungan bagi bangun datar/bangun ruang yang lain dan dapat menghitung keliling, luas permukaan, dll.
